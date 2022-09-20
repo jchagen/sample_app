@@ -5,3 +5,12 @@ This is the sample application for
 by [Michael Hartl](http://michaelhartl.com/).
 
 Joel Hagen
+
+
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
